@@ -134,7 +134,7 @@ switch(myDay){
     break;
 
     default:
-        today = "Somthing went wrong";
+        today = "Something went wrong";
 }
 
 //places our coffee object to the page
